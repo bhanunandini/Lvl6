@@ -1,4 +1,4 @@
-Hello, I am Sovit Chaudhary,
+Hello, I am BHanu Nandhini,
 
 Online Voting Platform
 -----------------------
